@@ -1,0 +1,2 @@
+Calendar Screen: http://localhost:5173
+Profile Screen: http://localhost:5173 (toggle from UI) 
